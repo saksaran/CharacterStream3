@@ -1,1 +1,1 @@
-# CharacterStream3
+Learning character stream in java.
